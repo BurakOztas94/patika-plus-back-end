@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90a45904-a95e-465a-929c-349795a107e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AritmeticOperators/AritmeticOperators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AritmeticOperators/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AritmeticOperators/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmstrongNumber/ArmstrongNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtmMachineProject/AtmMachineProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AverageOfSumOfNumbersDivisibleBy12Program/AverageOfSumOfNumbersDivisibleBy12Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BodyMassIndexCalculator/BodyMassIndexCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casting/Casting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChineseZodiac/ChineseZodiac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircumferenceAndAreaOfACircle/CircumferenceAndAreaOfACircle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalPlaceCalculator/DecimalPlaceCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiamondStar/DiamondStar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenAndMultiplesOfFour/EvenAndMultiplesOfFour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciNumbers/FibonacciNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindingHipotenusPerpendicularTriangle/FindingHipotenusPerpendicularTriangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightTicketPriceCalculator/FlightTicketPriceCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GCF_ICM/GCF_ICM.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroceryCashRegister/GroceryCashRegister.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HarmonicNumbers/HarmonicNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoroscopeFinder/HoroscopeFinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InvertedTriangle/InvertedTriangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Min_MaxCalculator/Min_MaxCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectNumberCalculator/PerfectNumberCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfFourAndFive/PowerOfFourAndFive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfNumber/PowerOfNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumberFinder/PrimeNumberFinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculatorR02/SimpleCalculatorR02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatusOfClassPass/StatusOfClassPass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuggestingActivitiesAccordingToAirTemperature/SuggestingActivitiesAccordingToAirTemperature.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaximeterCalculator/TaximeterCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserLogin/UserLogin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-Week/JPA_DERSLERI/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../11-Week/JPA_DERSLERI/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-Week/JPA_DERSLERI/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../11-Week/JPA_DERSLERI/src/main/java/Customer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ePTUFc7c7mq88Id14VLjyKeKEf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90a45904-a95e-465a-929c-349795a107e5" name="Changes" comment="" />
+      <created>1711805229684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711805229684</updated>
+    </task>
+    <servers />
+  </component>
+</project>
