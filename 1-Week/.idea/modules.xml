@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1-Week.iml" filepath="$PROJECT_DIR$/.idea/1-Week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AritmeticOperators/AritmeticOperators.iml" filepath="$PROJECT_DIR$/AritmeticOperators/AritmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArmstrongNumber/ArmstrongNumber.iml" filepath="$PROJECT_DIR$/ArmstrongNumber/ArmstrongNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtmMachineProject/AtmMachineProject.iml" filepath="$PROJECT_DIR$/AtmMachineProject/AtmMachineProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageExamResultCalculator/AverageExamResultCalculator.iml" filepath="$PROJECT_DIR$/AverageExamResultCalculator/AverageExamResultCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageOfSumOfNumbersDivisibleBy12Program/AverageOfSumOfNumbersDivisibleBy12Program.iml" filepath="$PROJECT_DIR$/AverageOfSumOfNumbersDivisibleBy12Program/AverageOfSumOfNumbersDivisibleBy12Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BodyMassIndexCalculator/BodyMassIndexCalculator.iml" filepath="$PROJECT_DIR$/BodyMassIndexCalculator/BodyMassIndexCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChineseZodiac/ChineseZodiac.iml" filepath="$PROJECT_DIR$/ChineseZodiac/ChineseZodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircumferenceAndAreaOfACircle/CircumferenceAndAreaOfACircle.iml" filepath="$PROJECT_DIR$/CircumferenceAndAreaOfACircle/CircumferenceAndAreaOfACircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" filepath="$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalPlaceCalculator/DecimalPlaceCalculator.iml" filepath="$PROJECT_DIR$/DecimalPlaceCalculator/DecimalPlaceCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiamondStar/DiamondStar.iml" filepath="$PROJECT_DIR$/DiamondStar/DiamondStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenAndMultiplesOfFour/EvenAndMultiplesOfFour.iml" filepath="$PROJECT_DIR$/EvenAndMultiplesOfFour/EvenAndMultiplesOfFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciNumbers/FibonacciNumbers.iml" filepath="$PROJECT_DIR$/FibonacciNumbers/FibonacciNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindingHipotenusPerpendicularTriangle/FindingHipotenusPerpendicularTriangle.iml" filepath="$PROJECT_DIR$/FindingHipotenusPerpendicularTriangle/FindingHipotenusPerpendicularTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlightTicketPriceCalculator/FlightTicketPriceCalculator.iml" filepath="$PROJECT_DIR$/FlightTicketPriceCalculator/FlightTicketPriceCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCF_ICM/GCF_ICM.iml" filepath="$PROJECT_DIR$/GCF_ICM/GCF_ICM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryCashRegister/GroceryCashRegister.iml" filepath="$PROJECT_DIR$/GroceryCashRegister/GroceryCashRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HarmonicNumbers/HarmonicNumbers.iml" filepath="$PROJECT_DIR$/HarmonicNumbers/HarmonicNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoroscopeFinder/HoroscopeFinder.iml" filepath="$PROJECT_DIR$/HoroscopeFinder/HoroscopeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvertedTriangle/InvertedTriangle.iml" filepath="$PROJECT_DIR$/InvertedTriangle/InvertedTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min_MaxCalculator/Min_MaxCalculator.iml" filepath="$PROJECT_DIR$/Min_MaxCalculator/Min_MaxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumberCalculator/PerfectNumberCalculator.iml" filepath="$PROJECT_DIR$/PerfectNumberCalculator/PerfectNumberCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerOfFourAndFive/PowerOfFourAndFive.iml" filepath="$PROJECT_DIR$/PowerOfFourAndFive/PowerOfFourAndFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerOfNumber/PowerOfNumber.iml" filepath="$PROJECT_DIR$/PowerOfNumber/PowerOfNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumberFinder/PrimeNumberFinder.iml" filepath="$PROJECT_DIR$/PrimeNumberFinder/PrimeNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculatorR02/SimpleCalculatorR02.iml" filepath="$PROJECT_DIR$/SimpleCalculatorR02/SimpleCalculatorR02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingNumbersFromLargestToSmallest/SortingNumbersFromLargestToSmallest.iml" filepath="$PROJECT_DIR$/SortingNumbersFromLargestToSmallest/SortingNumbersFromLargestToSmallest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatusOfClassPass/StatusOfClassPass.iml" filepath="$PROJECT_DIR$/StatusOfClassPass/StatusOfClassPass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuggestingActivitiesAccordingToAirTemperature/SuggestingActivitiesAccordingToAirTemperature.iml" filepath="$PROJECT_DIR$/SuggestingActivitiesAccordingToAirTemperature/SuggestingActivitiesAccordingToAirTemperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaximeterCalculator/TaximeterCalculator.iml" filepath="$PROJECT_DIR$/TaximeterCalculator/TaximeterCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserLogin/UserLogin.iml" filepath="$PROJECT_DIR$/UserLogin/UserLogin.iml" />
+    </modules>
+  </component>
+</project>
